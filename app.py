@@ -1,5 +1,5 @@
 with open("build_report.txt", "w") as f:
-    f.write("Course: Computer Programming: Java")
-    f.write("Enrolled students: 20")
+    f.write("\nCourse: Computer Programming: Java")
+    f.write("\nEnrolled students: 20")
 
 print("Report Generated")
